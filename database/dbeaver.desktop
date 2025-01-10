@@ -1,0 +1,5 @@
+[Desktop Entry]
+Name=DBeaver
+Type=Application
+Exec=/opt/dbeaver/dbeaver
+Icon=/opt/dbeaver/dbeaver.png

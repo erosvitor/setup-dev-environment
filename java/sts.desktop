@@ -1,0 +1,5 @@
+[Desktop Entry]
+Name=Spring Tools Suite
+Type=Application
+Exec=/opt/sts-4.19.0/SpringToolSuite4
+Icon=/opt/sts-4.19.0/icon.xpm

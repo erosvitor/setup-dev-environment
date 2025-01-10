@@ -1,0 +1,5 @@
+[Desktop Entry]
+Name=Insomnia
+Type=Application
+Exec=/opt/insomnia/insomnia
+Icon=/opt/insomnia/insomnia.png
