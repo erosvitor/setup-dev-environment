@@ -34,7 +34,7 @@ $ pip3 install matplotlib
 $ mkdir <project-name>
 $ cd <project-name>
 $ python3 -m venv <nome-ambiente-virtual>
-$ source <nome-ambiente-virtual>/bin/active
+$ source <nome-ambiente-virtual>/bin/activate
 ```
 
 ### Deactivate virtual environment
